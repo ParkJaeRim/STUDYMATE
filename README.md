@@ -1,5 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/29462979/90838974-52f87880-e391-11ea-8f33-d7565a2def1c.png" width="100" height="120">  
-#### [ 스터디메이트로 바로가기](http://i3b205.p.ssafy.io:8081/#/)
+#### [ 스터디메이트로 바로가기](http://i3b205.p.ssafy.io:8081/#/)(현재 중단되었습니다.)
+#### [스터디 메이트 내부를 보고 싶으신 분들은 여기를 클릭해주세요](https://www.notion.so/STUDYMATE-4dff9bd358a4414490499d990fb76beb)
 > 처음 이용해주시는분들은 메인에 AboutUs를 통해 이용규칙을 꼭! 읽어주세요
 
 
@@ -91,4 +92,3 @@
 
    
 
-   
