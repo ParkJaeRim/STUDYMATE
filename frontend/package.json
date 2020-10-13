@@ -7,7 +7,6 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "^21.0.0",
     "@ckeditor/ckeditor5-vue": "^1.0.1",
